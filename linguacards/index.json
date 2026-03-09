@@ -1,0 +1,23 @@
+{
+  "Vocabulary": {
+    "Description": "Expand your vocabulary with recently discovered words. These decks help you translate and memorize terms from English to Russian, enhancing language skills through interactive flash cards.",
+    "Prefix": "/words",
+    "Image": "/img/words.png",
+    "Decks": [
+      {
+        "Title": "English to Russian",
+        "DeckID": "d9b8c7e2-1234-4f56-89ab-cdef01234567",
+        "Description": "Translate recently found words from English to Russian and memorize them.",
+        "File": "/en-ru.json",
+        "Image": "/img/en-ru.png"
+      },
+      {
+        "Title": "Russian to English",
+        "DeckID": "e1f2d3c4-5678-90ab-cdef-1234567890ab",
+        "Description": "Translate recently found words from Russian to English and memorize them.",
+        "File": "/ru-en.json",
+        "Image": "/img/ru-en.png"
+      }
+    ]
+  }
+}
