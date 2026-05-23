@@ -9,7 +9,7 @@
         "DeckID": "b8079738-184c-4da8-ac8d-822060857777",
         "Description": "The country to capital.",
         "File": "/Africa.json",
-        "Image": "/img/Africa.png"
+        "Image": "/img/Africa.jpeg"
       },
       {
         "Title": "Asia",
@@ -23,28 +23,28 @@
         "DeckID": "2a1c643a-81ec-4ba2-a13b-b12e5c54259d",
         "Description": "The country to capital.",
         "File": "/Europe.json",
-        "Image": "/img/Europe.png"
+        "Image": "/img/Europe.jpeg"
       },
       {
         "Title": "North America",
         "DeckID": "14a432d7-a2cb-4e96-a5e8-62f97162d67c",
         "Description": "The country to capital.",
         "File": "/NorthAmerica.json",
-        "Image": "/img/NorthAmerica.png"
+        "Image": "/img/NorthAmerica.jpeg"
       },
       {
         "Title": "Oceania",
         "DeckID": "5cb8727f-bc8a-4669-af71-ef58ec2a0463",
         "Description": "The country to capital.",
         "File": "/Oceania.json",
-        "Image": "/img/Oceania.png"
+        "Image": "/img/Oceania.jpeg"
       },
       {
         "Title": "South America",
         "DeckID": "c458265a-40cf-4cc8-8b3a-4c6ebcc4bf1a",
         "Description": "The country to capital.",
         "File": "/SouthAmerica.json",
-        "Image": "/img/SouthAmerica.png"
+        "Image": "/img/SouthAmerica.jpeg"
       }
     ]
   },
@@ -58,42 +58,42 @@
         "DeckID": "d63d53a1-0197-430b-b692-7d616542c5ac",
         "Description": "The country to flag.",
         "File": "/Africa.json",
-        "Image": "/img/Africa.png"
+        "Image": "/img/Africa.jpeg"
       },
       {
         "Title": "Asia",
         "DeckID": "a094b03a-4121-4784-9105-98d541b41189",
         "Description": "The country to flag.",
         "File": "/Asia.json",
-        "Image": "/img/Asia.png"
+        "Image": "/img/Asia.jpeg"
       },
       {
         "Title": "Europe",
         "DeckID": "8fd251d4-6106-4e75-905a-b0b53499c9a5",
         "Description": "The country to flag.",
         "File": "/Europe.json",
-        "Image": "/img/Europe.png"
+        "Image": "/img/Europe.jpeg"
       },
       {
         "Title": "North America",
         "DeckID": "325eb03f-6840-47d2-9010-f305ddbaa6d0",
         "Description": "The country to flag.",
         "File": "/NorthAmerica.json",
-        "Image": "/img/NorthAmerica.png"
+        "Image": "/img/NorthAmerica.jpeg"
       },
       {
         "Title": "Oceania",
         "DeckID": "46c71b8a-e993-4431-82e4-813464132c10",
         "Description": "The country to flag.",
         "File": "/Oceania.json",
-        "Image": "/img/Oceania.png"
+        "Image": "/img/Oceania.jpeg"
       },
       {
         "Title": "South America",
         "DeckID": "99cefc4b-7ade-412d-b787-9baae68a6819",
         "Description": "The country to flag.",
         "File": "/SouthAmerica.json",
-        "Image": "/img/SouthAmerica.png"
+        "Image": "/img/SouthAmerica.jpeg"
       }
     ]
   }
